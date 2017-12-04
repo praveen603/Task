@@ -19,8 +19,12 @@ pipeline {
 	   stage('Deploy'){
 	       steps {echo 'deploy step'
 	   }
+<<<<<<< HEAD
 	   } 
 
 
+=======
+	   }  
+>>>>>>> f4b5b4dfff182ab332bb7f88fc2e0cf0fc947adc
     }
 }
