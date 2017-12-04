@@ -20,8 +20,6 @@ pipeline {
 	       steps {
 		   echo 'deploy step'
 	   }
-	   }
-	   
-	   
+	   }  
     }
 }
