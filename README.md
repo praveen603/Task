@@ -1,4 +1,5 @@
 # Task
+new change
 <<<<<<< HEAD
 new task added
 line 2
